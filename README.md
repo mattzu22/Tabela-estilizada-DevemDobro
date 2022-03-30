@@ -7,9 +7,11 @@
 
 ## 🔖 Descrição
 
-    Exercício do módulo de HTML e CSS básico do curso DevemDobro.
-    O intuito desse desafio era construir uma tabela estilizada e
-    aplicar os efeitos usando um arquivo separado de estilização.
+    Exercício do módulo de HTML e CSS básico do curso DevQuest.
+    O intuito desse desafio era construir duas tabelas estilizadas e
+    aplicar os efeitos usando um arquivo separado de estilização 
+    visando um código de fácil manutenção e com uma boa indentação
+    
 
 ---
 
